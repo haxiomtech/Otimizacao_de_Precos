@@ -25,7 +25,7 @@ Produção: Lua 1 = 5 horas de montagem e 1 hora de teste | Lua 2 = 6 horas de m
 
 - Quantas unidades de cada modelo produzir para maximar o lucro máximo?
 
-
+## A empresa Lua Smart Tech deve produzir 560 unidades do tipo de smartphone Lua1 e 1200 do tipo Lua2 para atingir o lucro máximo de R$199.600.
 
 
 
